@@ -1,8 +1,8 @@
-import Home from '../screens/Home'
-import OrderDelivery from '../screens/OrderDelivery'
-import Restaurant from '../screens/Restaurant'
+import Home from './Home'
+import Restaurant from './Restaurant'
+
+
 export {
     Home,
-    OrderDelivery,
     Restaurant
 }
